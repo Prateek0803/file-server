@@ -7,6 +7,6 @@ To use this project you should do the follow things as mentioned:
 3. Create database using cc.sql file.
 
 Team members of this project:
-Manish Soni:https://www.linkedin.com/in/manisomanish/
-Poonam Verma:https://www.linkedin.com/in/poonam-verma-319bb6151/
-Jaydeep Godara:https://www.linkedin.com/in/jaydeep-godara/
+Manish Soni: https://www.linkedin.com/in/manisomanish/
+Poonam Verma: https://www.linkedin.com/in/poonam-verma-319bb6151/
+Jaydeep Godara: https://www.linkedin.com/in/jaydeep-godara/
